@@ -1,12 +1,11 @@
 bookdown::gitbook:
   config:
     toc:
-      collapse: section
+      collapse: subsection
       before: |
-        <li><a href="https://bookdown.org/gorodnichy/two-lives-book">«Two Lives» by Concordia Antarova</a></li>
+        <li><a href="https://bookdown.org/gorodnichy/TwoLives-book">«Two Lives» by Concordia Antarova</a></li>
       after: |
-        <li> <a href="http://gorodnichy.ca">
-        IVIM Inc. (CC) 2018 </a> </li>
+        <li> <a href="http://gorodnichy.ca">Gorodnichy (CC) 2018 </a> </li>
     download: [epub]
     sharing:
       twitter: yes

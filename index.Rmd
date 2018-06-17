@@ -7,32 +7,58 @@ subtitle: "Translation and analysis  of the sources"
 # date: "31/12/2017"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
-description: "«Two Lives» by Concordia Antarova: translation and analysis by Dmitry Gorodnichy"
-
+description: "«Two Lives» by Concordia Antarova: text translation and analysis"
+url: 'http\://bookdown.org/gorodnichy/twolives-book'
+cover-image: "book1.jpg"
 ---
-
-<!-- <img alt="« Shri Jobim »" border="1" height="500" src="images/cover-book-ShriJobim.jpg"  /> <br> -->
-
-<!-- DLQ EPUB -->
 
 
 
 # Introduction {-}
 
 
+
+
+```{r,  out.width='33%', fig.align='center', echo=FALSE}
+knitr::include_graphics("Kora_Antarova_young.jpg") 
+```
+
+
 This work
-presents the English translation and text analysis of 
+presents the working draft of the English translation of 
 the "The Lives" book by [Concordia  Antarova](https://en.wikipedia.org/wiki/Concordia_Antarova). 
-While widely known in Russian speaking spheres, and   [translated into French](http://www.editions3m.com/livre.php?ID=23), this is book remains largely unknown to English speaking population, despite its signifincant spritual importance.
+Widely known in Russian speaking spheres, and   [translated into French](http://www.editions3m.com/livre.php?ID=23), this book remains to be largely unknown to English speaking population, despite its significant spiritual importance, comparable to that of ["Book of Joy"](http://bookofjoy.org/).
 
 
-While the efforts on translating this book into English continue,  here we present 
-the semantic and emotional analysis of the text, performed using   text mining data science tools.
+## Relevance to AI  {-}
 
-The first Part of the book is used, the working draft translation of which is provided. 
 
-Other largely unknown to English public Russian texts of large spiritual significance include those  of [Nicholas Roerich](Nicholas Roerich) and [Helena Blavatsky](https://en.wikipedia.org/wiki/Helena_Blavatsky). The translations and analysis of these texts is in progress.
+While the efforts on translating this book into English continue,  here the draft of it is used for Artificial Intelligence (AI) projects, aiming at building the systems for automated analysis and translations of texts, using Deep Learning (a.k.a. [Artificial Neural Networks](https://github.com/gorodnichy/LA-R-KerasNN)) and [other text mining packages](https://github.com/gorodnichy/LA-R-text). 
 
+
+The first Volume (of three) of the book is used. The original text in Russian and its English translation are provided. Text analysis results are provided at the end.
+
+Other largely unknown to English public Russian texts of large spiritual significance include those  by [Nicholas Roerich](Nicholas Roerich) and [Helena Blavatsky](https://en.wikipedia.org/wiki/Helena_Blavatsky). The vision is that one day the language will not matter - people from all cultural backgrounds will be able to enjoy and learn from all  cultural heritage writings.
+
+
+
+## Credits {-}
+
+This work is done in support of the  [www.BookTwoLives.com](http://www.BookTwoLives.com) project. The project respects the intellectual property rights of all content creators. 
+
+
+The processing of this text is done with 
+ [R](https://www.rstudio.com/) and [bookdown](https://bookdown.org/). 
+ The source is available at [github](https://github.com/gorodnichy/two-lives-book).
+
+
+
+# “TWO LIVES” (Volume 1, Part 1) {-}
+
+
+```{r,  out.width='50%', fig.align='center', echo=FALSE}
+knitr::include_graphics("book1.jpg")
+```
 
 
 
@@ -101,17 +127,4 @@ evolution, creative work of man’s spirit as the most important factor of devel
 are revealed in “Two Lives”. The real time disappears in the novel, the historical personalities of various
 epochs meet and cooperate here, because neither time nor space nor physical separation is existing for
 man’s spirit...
-
-
-
-## Credits {-}
-
-This work is done in support of the  www.BookTwoLives.com project. The project respects the intellectual property rights of all content creators. 
-
-
-The processing of this text is done with 
- [R](https://www.rstudio.com/) and [bookdown](https://bookdown.org/). 
- The source is available at [github](https://github.com/gorodnichy/two-lives-book).
-
-
 

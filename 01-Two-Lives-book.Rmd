@@ -1,13 +1,5 @@
 
 
-# "TWO LIVES", Part 1 (Translation from Russian) {-}
-
-
-```{r,  out.width='50%', fig.align='center', echo=FALSE}
-knitr::include_graphics("book1.jpg")
-```
-
-
 
 # Chapter  1: At my brother’s
 

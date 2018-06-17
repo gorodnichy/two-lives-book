@@ -1,15 +1,24 @@
 
 # Text Analysis {#TextMining .unnumbered}
 
-<!-- {#TextMining2 .unnumbered} -->
+
+```{r,  out.width='50%', fig.align='center', echo=FALSE}
+knitr::include_graphics("TMinR.jpg")
+```
+
+
+To Be Added
+
 
 ## Most frequently used words {-}
 
-
-
-## About Love vs. about Life {-}
-
+## Emotion analysis by chapter {-}
 
 
 
+## Section topics classification {-}
+
+
+
+## Interactive search for answers to your question {-}
 
