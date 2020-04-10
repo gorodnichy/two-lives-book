@@ -1,7 +1,10 @@
 # "Two Lives" book Project
 
 
-This repository contains the working drafts of the English translation from Russian of the book "Two Lives" by Concordia Antarova.
+This repository contains the working drafts of the English translation of 
+one of the most monumental spirituals books ever written, written in Russian and hence , unfotunately,  not much known to the audience who can'tread Russian.
+
+The book is called "Two Lives". It was written (or it would be more corect to say it was heard and transcribed) by Concordia Antarova in the first half of 20th century.
 
 For more information about the project please visit
 http://www.booktwolives.com/
@@ -9,9 +12,11 @@ http://www.booktwolives.com/
 Learn more:
 https://en.wikipedia.org/wiki/Concordia_Antarova
 
-Contributions, questions, feedback are welcome!
+Contributions, questions, feedback are welcome! - 
+
+You can also use the text to practice your Russian or English.
+
+Start by fork or load the entire project from here (including all source texts and translations). Or you can read it from https://bookdown.org/gorodnichy/twolives-book
 
 
-This text is used for  multilingual text analysis projects.  
-See https://github.com/gorodnichy/LA-R-text for mor edetails.
 
