@@ -16,7 +16,7 @@ Contributions, questions, feedback are welcome! -
 
 You can also use the text to practice your Russian or English.
 
-Start by fork or load the entire project from here (including all source texts and translations). Or you can read it from https://bookdown.org/gorodnichy/twolives-book
+Start by fork or clone the entire project from here (including all source texts and translations). Or you can read it from https://bookdown.org/gorodnichy/twolives-book
 
 
 
